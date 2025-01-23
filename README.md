@@ -16,6 +16,17 @@ This repository contains lab assignments and projects completed as part of the *
 
 ## How to Use This Repository
 
-1. Clone the repository to your local machine:
+1. **Clone the repository to your local machine**
    ```bash
    git clone https://github.com/DaveTron4/Software-Development-Class.git
+
+2. **Navigate to the desired lab folder for its source code and files**:
+    ```bash
+    cd labs/lab1
+    ```
+
+3. **Compile and run the Java programs. For example**:
+    ```bash
+    javac Automobile.java SUV.java Lab1.java
+    java Lab1
+    ```

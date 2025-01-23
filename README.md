@@ -8,7 +8,7 @@ This repository contains lab assignments and projects completed as part of the *
 
 | Lab Name      | Description                                     | Date Completed | Programming Language |
 |---------------|-------------------------------------------------|----------------|-----------------------|
-| [Lab 1](labs/lab1) | Introduction to Java: Classes and Objects. Learn the basics of creating classes and objects in Java. | January 23, 2025 | Java                 |
+| [Lab 1](https://github.com/DaveTron4/Software-Development-Class/tree/main/Lab1) | Introduction to Java: Classes and Objects. Learn the basics of creating classes and objects in Java. | January 23, 2025 | Java                 |
 
 > 📝 **Note:** The table will be updated as new labs are added to this repository.
 

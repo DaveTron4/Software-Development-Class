@@ -16,7 +16,7 @@ This repository contains lab assignments and projects completed as part of the *
 
 ## How to Use This Repository
 
-1. **Clone the repository to your local machine**
+1. **Clone the repository to your local machine:**
    ```bash
    git clone https://github.com/DaveTron4/Software-Development-Class.git
 
